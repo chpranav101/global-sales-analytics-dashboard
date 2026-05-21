@@ -18,9 +18,6 @@ This project is an interactive Power BI dashboard created using Excel sales data
 - DAX
 - Data Visualization
 
-## Dashboard Preview
-(Add your screenshot here)
-
 ## Insights
 - USA generated highest sales revenue
 - Digestive Enzyme product performed best
